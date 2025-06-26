@@ -1,0 +1,94 @@
+Company: Acme Corp
+Year: 2019
+Revenue: $2,500,000
+Expenses: $1,800,000
+Net Income: $700,000
+Assets: $5,000,000
+Liabilities: $2,000,000
+Equity: $3,000,000
+Operating Cash Flow: $800,000
+Investing Cash Flow: -$200,000
+Financing Cash Flow: $100,000
+
+Year: 2020
+Revenue: $2,700,000
+Expenses: $1,900,000
+Net Income: $800,000
+Assets: $5,200,000
+Liabilities: $2,100,000
+Equity: $3,100,000
+Operating Cash Flow: $850,000
+Investing Cash Flow: -$150,000
+Financing Cash Flow: $120,000
+
+---
+Company: Beta Industries
+Year: 2019
+Revenue: $1,200,000
+Expenses: $950,000
+Net Income: $250,000
+Assets: $2,000,000
+Liabilities: $1,200,000
+Equity: $800,000
+Operating Cash Flow: $300,000
+Investing Cash Flow: -$50,000
+Financing Cash Flow: $30,000
+
+Year: 2020
+Revenue: $1,350,000
+Expenses: $1,000,000
+Net Income: $350,000
+Assets: $2,100,000
+Liabilities: $1,250,000
+Equity: $850,000
+Operating Cash Flow: $320,000
+Investing Cash Flow: -$40,000
+Financing Cash Flow: $35,000
+
+---
+Company: Classic Textiles
+Year: 2019
+Revenue: $3,100,000
+Expenses: $2,400,000
+Net Income: $700,000
+Assets: $6,000,000
+Liabilities: $2,500,000
+Equity: $3,500,000
+Operating Cash Flow: $900,000
+Investing Cash Flow: -$300,000
+Financing Cash Flow: $200,000
+
+Year: 2020
+Revenue: $3,300,000
+Expenses: $2,500,000
+Net Income: $800,000
+Assets: $6,200,000
+Liabilities: $2,600,000
+Equity: $3,600,000
+Operating Cash Flow: $950,000
+Investing Cash Flow: -$250,000
+Financing Cash Flow: $220,000
+
+---
+Company: OldTown Hardware
+Year: 2019
+Revenue: $850,000
+Expenses: $600,000
+Net Income: $250,000
+Assets: $1,500,000
+Liabilities: $700,000
+Equity: $800,000
+Operating Cash Flow: $270,000
+Investing Cash Flow: -$30,000
+Financing Cash Flow: $20,000
+
+Year: 2020
+Revenue: $900,000
+Expenses: $650,000
+Net Income: $250,000
+Assets: $1,550,000
+Liabilities: $720,000
+Equity: $830,000
+Operating Cash Flow: $280,000
+Investing Cash Flow: -$25,000
+Financing Cash Flow: $22,000 

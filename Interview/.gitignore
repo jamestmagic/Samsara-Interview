@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask stuff
+instance/
+.webassets-cache
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode
+.vscode/
+
+# Node.js
+node_modules/
+legacy-financial-view/node_modules/
+legacy-financial-view/build/
+legacy-financial-view/.env
+legacy-financial-view/.pnp*
+legacy-financial-view/npm-debug.log*
+legacy-financial-view/yarn-debug.log*
+legacy-financial-view/yarn-error.log*
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db 
